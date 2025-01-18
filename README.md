@@ -1,6 +1,6 @@
 ## CB-MH
 
-Ingroj Shrestha, and Padmini Srinivasan. ["Comparing deep learning and conventional machine learning models for predicting mental illness from history of present illness notations."](https://pubmed.ncbi.nlm.nih.gov/35308915/) *AMIA Annual Symposium Proceedings*. Vol. 2021. 2022.
+Ingroj Shrestha, and Padmini Srinivasan. ["Comparing deep learning and conventional machine learning models for predicting mental illness from history of present illness notations."](https://pubmed.ncbi.nlm.nih.gov/35308915/) *AMIA Annual Symposium Proceedings*. Vol. 2021
 
 This repository contains code for CB-MH model, model explanation.
 
