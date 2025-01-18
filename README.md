@@ -2,6 +2,8 @@
 
 This repository contains code for CB-MH model, model explanation.
 
+Ingroj Shrestha, and Padmini Srinivasan. ["Comparing deep learning and conventional machine learning models for predicting mental illness from history of present illness notations."](https://pubmed.ncbi.nlm.nih.gov/35308915/) *AMIA Annual Symposium Proceedings*. Vol. 2021. 2022.
+
 |Script|Description|
 | ------------- | ------------- |
 | CB_MH.py | multi class multi-label text classifier (CNN + BiLSTM + [MultiHeadAttention](https://arxiv.org/abs/1706.03762)) |
